@@ -1,5 +1,7 @@
 # Проект: Переключение насыщенности
 
+![image](https://raw.githubusercontent.com/DimDimShishkov/dayNight/main/dayNight.gif)
+
 ### Обзор
 
 - Интро
